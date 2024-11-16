@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    
+}
+ul>li{
+    font-weight: bold;
+    font-family: cursive;
+    color: orange;
+}
+h1+p{
+    padding: 5px;
+    border-radius: 8px;
+    background-color: gold;
+}
+a:hover{
+    color: lime;
+}
+p:hover{
+    color: aqua;
+}
